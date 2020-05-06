@@ -1,0 +1,25 @@
+CONFIG-VERSION: '0.1'
+
+#Format for player reports
+REPORT: '&8(&6Report&8) (&6%server%&8) &6%name% &e has reported &6%target% &efor &6%reason%'
+
+#Format for player staffchat
+STAFFCHAT-FORMAT: '&8(&6Staff-Chat&8) &8(&6%server%&8) &6%name%: &e%message%'
+
+#Format for staff join message
+STAFF-JOIN: '&8(&6Staff&8) &6%player% &7has joined &6%server%'
+
+#In-Cooldown message
+COOLDOWN: '&cYou are still in cooldown, please wait %cooldown%s'
+
+#Format for player requests
+REQUEST-FORMAT: '&8(&6Request&8) &8(&6%player%&8) &e%msg%'
+
+#Successful Report Message
+SUCCESSFULL-REPORT: '&aThank you for your report, all staff have been notified.'
+
+#Successful Request Message
+SUCCESSFULL-REQUEST: '&aYour report has been submited, all staff have been notified.'
+
+#Toggled StaffChat Message
+TOGGLED-STAFFCHAT: '&aStaff chat has been toggled %status%.'
